@@ -4,7 +4,7 @@
 
 # Nest.Js Jwt Example Project
 
-[개인 블로그](https://http://elfinlas.github.io)에서 [Nest.js에서 Jwt사용하기](https://http://elfinlas.github.io/nest_js/230208_nesjs_jwt_part1/) 포스팅 예제입니다.  
+[개인 블로그](https://http://elfinlas.github.io)에서 [Nest.js에서 Jwt사용하기](https://elfinlas.github.io/nest_js/230208_nesjs_jwt_part1/) 포스팅 예제입니다.  
 자세한 것은 블로그 글을 참고해주세요.
 
 각 커밋마다 블로그 포스팅 내용을 담고 있으며, 완료가 되면 해당 Readme가 업데이트 될 예정입니다.
@@ -40,4 +40,4 @@ git clone https://github.com/elfinlas/NestJsJwt.git
 
 이렇게 하면 JWT가 생성됨을 알 수 있습니다.
 
-자세한 내용은 [Nest.js에서 Jwt사용하기](https://http://elfinlas.github.io/nest_js/230208_nesjs_jwt_part1/) 포스팅을 참고해주세요.
+자세한 내용은 [Nest.js에서 Jwt사용하기](https://elfinlas.github.io/nest_js/230208_nesjs_jwt_part1/) 포스팅을 참고해주세요.
